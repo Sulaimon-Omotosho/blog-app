@@ -66,7 +66,7 @@ const MainCategories = () => {
         <input
           type='text'
           placeholder='search posts...'
-          className='bg-transparent'
+          className='bg-transparent outline-none'
         />
       </div>
     </div>
